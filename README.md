@@ -20,8 +20,8 @@ win-font-dir = "0.1.0"
 ```
 
 This library has only two methods.
-- fn user_font_dir() -> Some(PathBuf);
-- fn system_font_dir() -> Some(PathBuf);
+- `fn user_font_dir() -> Some(PathBuf);`
+- `fn system_font_dir() -> Some(PathBuf);`
 
 ## License
 
