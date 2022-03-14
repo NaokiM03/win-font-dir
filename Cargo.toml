@@ -2,7 +2,10 @@
 name = "win-font-dir"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["NaokiM03"]
+description = "This library provides the path to the font directory in Windows."
+keywords = ["font", "path", "folder", "windows"]
+repository = "https://github.com/NaokiM03/win-font-dir"
+license = "MIT"
 
 [dependencies]
