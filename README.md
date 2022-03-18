@@ -25,4 +25,4 @@ This library has only two methods.
 
 ## License
 
-LightFetch is released under the MIT License
+win-font-dir is released under the MIT License
